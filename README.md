@@ -28,4 +28,4 @@ If you enter r, the script will retrieve a random quote and display it in the te
 ## Show Categories
 If you enter c, the script will display a list of available quote categories. You will then be prompted to enter the name of a category, such as "love", "art", "funny", "inspire", "management", "sports", "students", or "life". The script will then retrieve a quote from the selected category and display it in the terminal.
 
-This script can be made in a more dynamic way, but it does the job for now.
+This script can be made in a more dynamic way, but it does the job for now. The python script for generating quotes that is posted is more dynamic.
